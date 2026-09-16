@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Leo 👋</h1>
 
 <p align="center">
-  Software developer in <b>Melbourne, Australia</b> — backend APIs, mobile apps,<br>
+  Software developer in <b>Melbourne, Australia</b> - backend APIs, mobile apps,<br>
   and the odd game engine. Most recently on a live Australian mental health platform.
 </p>
 
@@ -80,7 +80,7 @@
 
 <br>
 
-Software Development major, Games Development minor at Monash. It is an odd pairing and I would choose it again — writing gameplay systems in C++ and C# and optimising topology for realtime rendering made me count frames and bytes, and I still count them when I write a backend.
+Software Development major, Games Development minor at Monash. It is an odd pairing and I would choose it again: writing gameplay systems in C++ and C# and optimising topology for realtime rendering made me count frames and bytes, and I still count them when I write a backend.
 
 The two things I am proudest of on ANTSA never shipped as features. I stood the whole multiservice stack up locally before writing a line, then traced a data mismatch that produced no error and no log entry.
 
