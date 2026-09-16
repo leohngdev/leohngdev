@@ -17,7 +17,7 @@
 
 | Project | What it is | Status |
 | :-- | :-- | :-- |
-| **Yard** | Full stack social platform, built and deployed solo on Next.js 15, React 19 and Supabase Postgres. Authorisation lives in database row-level security rather than route checks, so no API route can return another user's records. Scheduled recommendations over embeddings and pgvector similarity. | `live` |
+| **[Yard](https://github.com/leohngdev/yard-social)** | Privacy-first neighbourhood social app for iOS and Android. Pinned posts grow as plants on a real map, and a nightly job cross-pollinates the gardens of people who keep crossing paths. Map authorisation lives in Postgres row-level security rather than route checks, with coordinates filtered server-side. Solo build - Expo/React Native app, Next.js web client, 42 migrations. | `TestFlight` |
 | **[Hospitality Till](https://github.com/leohngdev/POS)** | Point-of-sale for a restaurant: PIN auth, dine-in floor map, front-of-house tickets, kitchen chits, staff clock-in. Serves the whole venue over LAN. | `in a venue` |
 | **[leohngdev.github.io](https://github.com/leohngdev/leohngdev.github.io)** | My portfolio. Astro and Tailwind, no UI framework, performance budgets enforced at build, the page measures its own weight in your browser. | `live` |
 | **[ANTSA Scoring Engine](https://leohngdev.github.io/work/antsa-scoring-engine/)** | Made questionnaire scoring configurable at runtime on a production health platform: custom categories, severity thresholds, weighted scoring; and carried it through to the clinician dashboard and PDF export. | `client work` |
